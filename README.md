@@ -156,11 +156,3 @@ You can customize the following:
 
 - **Text Splitting**: Modify how documents are split into smaller parts using the `TextSplitter` (currently uses `TokenTextSplitter`).
 - **Vectorization**: Customize how the text is vectorized before storing it in the PostgreSQL database.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
