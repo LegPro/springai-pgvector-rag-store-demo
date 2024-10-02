@@ -1,0 +1,100 @@
+1. Laptop - A portable computer designed for ease of use, mobility, and productivity.
+2. Smartphone - A handheld device combining mobile phone capabilities with advanced computing features.
+3. Tablet - A touchscreen device larger than a smartphone, used for browsing, media, and apps.
+4. Smartwatch - A wearable device that tracks health, fitness, and connects to your smartphone.
+5. Headphones - Audio devices worn over the ears for personal music listening or calls.
+6. Wireless Earbuds - Compact, wireless in-ear headphones for seamless music and call experiences.
+7. Bluetooth Speaker - A portable speaker that connects wirelessly for music playback anywhere.
+8. Gaming Console - A device designed for playing video games on a TV or monitor.
+9. 4K TV - A television with ultra-high definition for crisp, detailed picture quality.
+10. VR Headset - A wearable device providing immersive virtual reality experiences in 3D.
+11. Fitness Tracker - A wearable gadget that monitors steps, heart rate, and fitness activities.
+12. Drone - A remote-controlled flying device used for photography, videography, and recreation.
+13. Digital Camera - A camera that captures photos and videos in digital format for easy sharing.
+14. External Hard Drive - A portable storage device for backing up and transferring large files.
+15. Portable Charger - A battery-powered device to recharge your electronics on the go.
+16. Smart Thermostat - A device that automatically adjusts home temperature for energy savings.
+17. Robot Vacuum - An automated vacuum cleaner that cleans floors with minimal human intervention.
+18. Wi-Fi Router - A device that distributes internet connection to wireless devices at home.
+19. Smart Light Bulb - An energy-efficient bulb controlled via smartphone for mood lighting.
+20. Electric Scooter - A compact, battery-powered scooter for personal transportation.
+21. Streaming Stick - A small device that plugs into a TV, enabling access to streaming services.
+22. E-reader - A lightweight device designed for reading digital books and magazines.
+23. Smart Doorbell - A doorbell with a built-in camera and microphone for security and convenience.
+24. Air Purifier - A device that removes pollutants from the air for cleaner indoor air quality.
+25. Action Camera - A rugged camera designed for capturing high-quality video in extreme conditions.
+26. Smart Fridge - A refrigerator with internet connectivity and smart features like inventory tracking.
+27. Electric Toothbrush - A battery-powered toothbrush that provides automated, effective cleaning.
+28. Coffee Maker - A machine that brews coffee automatically for convenient morning routines.
+29. Blender - A kitchen appliance that mixes, purees, and blends food ingredients quickly.
+30. Microwave Oven - An appliance for fast heating and cooking of food using microwave radiation.
+31. Induction Cooktop - A stove that uses electromagnetic fields to heat pots and pans directly.
+32. Electric Kettle - A kettle that boils water rapidly with an electric heating element.
+33. Dishwasher - A kitchen appliance that automatically washes and dries dirty dishes.
+34. Smart Lock - A keyless door lock controlled via smartphone or fingerprint for added security.
+35. Instant Pot - A versatile kitchen appliance that functions as a pressure cooker, slow cooker, and more.
+36. Air Fryer - A kitchen device that uses hot air to cook crispy food with little or no oil.
+37. Smart Speaker - A voice-activated speaker that plays music, answers questions, and controls smart devices.
+38. Electric Bike - A bicycle with an electric motor to assist with pedaling for easier commuting.
+39. Noise-Cancelling Headphones - Headphones that block out ambient noise for better sound isolation.
+40. Wireless Charger - A charging pad that recharges smartphones without the need for cables.
+41. Gaming Mouse - A precision mouse designed for fast and accurate input during gaming.
+42. Mechanical Keyboard - A high-performance keyboard with tactile switches for better typing feedback.
+43. Portable Projector - A compact projector for displaying videos and presentations anywhere.
+44. Smart Plug - A device that allows you to control appliances via smartphone for energy efficiency.
+45. 3D Printer - A machine that creates physical objects by layering material based on a digital design.
+46. Electric Shaver - A grooming device for quick and smooth shaving with minimal effort.
+47. Photo Printer - A compact printer designed for producing high-quality photo prints at home.
+48. Waterproof Camera - A camera designed to capture images and video underwater without damage.
+49. Solar Charger - A charger that uses solar panels to recharge devices using sunlight.
+50. Smart Alarm Clock - An alarm clock with features like sunrise simulation and app connectivity.
+51. Dash Cam - A camera mounted in a car to record the road ahead for security and insurance purposes.
+52. Streaming Webcam - A high-quality camera used for live streaming and video conferencing.
+53. Electric Heater - A portable device that heats a room using electricity.
+54. Smart Scale - A bathroom scale that tracks weight and health metrics via smartphone.
+55. Soundbar - A slim speaker designed to enhance the audio quality of your TV or home theater.
+56. Smart Smoke Detector - A smoke detector that sends alerts to your phone in case of a fire.
+57. Electric Pressure Washer - A powerful cleaning device for outdoor surfaces like decks and driveways.
+58. USB-C Hub - A multi-port adapter that expands the connectivity options of a USB-C device.
+59. Portable AC Unit - A compact air conditioner that cools small spaces without permanent installation.
+60. Smart Mirror - A mirror with built-in smart features like weather updates and fitness tracking.
+61. Digital Photo Frame - An electronic frame that displays digital photos in a slideshow format.
+62. Wireless Keyboard - A Bluetooth-enabled keyboard for typing without wires.
+63. Car Charger - A device that plugs into your car to charge phones and gadgets while driving.
+64. Robot Mop - A robotic device that mops hard floors automatically, saving time and effort.
+65. Smart Irrigation System - A device that automates watering schedules for lawns and gardens.
+66. Electric Blanket - A blanket with built-in heating elements to keep you warm.
+67. Infrared Thermometer - A thermometer that measures temperature without physical contact.
+68. Dehumidifier - A device that reduces humidity in the air to prevent mold and mildew.
+69. Electric Fan - A portable fan powered by electricity for personal cooling.
+70. Smart Faucet - A kitchen or bathroom faucet with touchless controls and water-saving features.
+71. Hair Straightener - A personal grooming tool that straightens hair using heat.
+72. Pet Camera - A camera that lets you monitor and interact with your pet remotely.
+73. Fitness Equipment - Gear like dumbbells, treadmills, and resistance bands for home workouts.
+74. Cordless Drill - A handheld power tool for drilling and screwing with no need for cords.
+75. Electric Tooth Flosser - A device that uses water pressure to clean between teeth more effectively.
+76. Home Security Camera - A camera that monitors your home and alerts you of any suspicious activity.
+77. Electric Skillet - A cooking appliance that heats and cooks food on a flat surface.
+78. Wearable ECG Monitor - A health device that tracks your heart's electrical activity.
+79. Robot Lawn Mower - An automated device that mows your lawn without manual effort.
+80. Smart Glasses - Eyewear with built-in tech features like displays and audio connectivity.
+81. Smart BBQ Grill - A grill with temperature control and app connectivity for perfect cooking results.
+82. Electric Treadmill - A home exercise machine that allows for running or walking indoors.
+83. Streaming Microphone - A high-quality microphone designed for live streaming and podcasts.
+84. Home Theater Projector - A high-resolution projector for large-scale video viewing at home.
+85. Tactical Flashlight - A durable, high-lumen flashlight designed for outdoor and emergency use.
+86. LED Desk Lamp - A desk lamp with energy-efficient LED lighting and adjustable brightness.
+87. Smart Notebook - A reusable notebook that can save your notes to the cloud with an app.
+88. Cordless Vacuum - A lightweight vacuum cleaner that runs on batteries for convenient cleaning.
+89. Electric Griddle - A flat cooking surface powered by electricity for making pancakes and more.
+90. Smart Water Bottle - A bottle that tracks your hydration levels and reminds you to drink water.
+91. Electric Wine Opener - A battery-powered tool for easily uncorking wine bottles.
+92. Smart Bed - A bed that adjusts its firmness and tracks sleep for improved rest.
+93. Electric Lawn Mower - A lawn mower powered by electricity for eco-friendly yard maintenance.
+94. Laser Printer - A high-speed printer that produces sharp text and images using laser technology.
+95. Home Brewing Kit - A set of tools and ingredients for making beer or other beverages at home.
+96. Smart Oven - A kitchen oven with programmable cooking functions and remote control.
+97. Electric Pressure Cooker - A cooker that uses high pressure to speed up cooking times.
+98. Heat Gun - A tool that blows hot air for stripping paint or thawing pipes.
+99. Pet Feeder - An automatic device that dispenses food for your pet on a schedule.
+100. Smart Door Lock - A lock with keyless entry controlled by a smartphone or passcode.
