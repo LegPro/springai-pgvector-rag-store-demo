@@ -1,7 +1,7 @@
 
 # SpringAI PGVector RAG Store Demo
 
-This is a demo project that uses **Spring Boot** and **PGVector** to implement a **Retrieval-Augmented Generation (RAG)** system that stores and retrieves vectorized documents in a PostgreSQL database with the PGVector extension.
+This is a demo project that uses **Spring Boot** and **PGVector** to implement a **Retrieval-Augmented Generation (RAG)** system that stores vectorized documents in a PostgreSQL database with the PGVector extension.
 
 ## Overview
 
